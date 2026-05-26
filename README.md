@@ -34,14 +34,21 @@ The project showcases practical implementation of Python for real-world retail a
 
 The project was completed using the following tools and technologies:
 
-- 🐍 Python
-- 🐼 Pandas
-- 🔢 NumPy
-- 📊 Matplotlib
-- 📈 Seaborn
-- 💻 Jupyter Notebook
-- 🗂 GitHub
-- 📂 Dataset Description
+🐍 Python
+
+🐼 Pandas
+
+ 🔢 NumPy
+
+ 📊 Matplotlib
+
+ 📈 Seaborn
+
+ 💻 Jupyter Notebook
+
+ 🗂 GitHub
+
+📂 Dataset Description
 
 The dataset contains retail sales-related information used for analytical purposes.
 
