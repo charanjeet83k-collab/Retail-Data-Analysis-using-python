@@ -19,12 +19,12 @@ This project demonstrates an end-to-end retail data analysis workflow using Pyth
 
 The analysis includes:
 
-* ✔ Data Cleaning
-* ✔ Data Preprocessing
-* ✔ Exploratory Data Analysis (EDA)
-* ✔ Statistical Analysis
-* ✔ Data Visualization
-* ✔ Insight Generation
+- ✔ Data Cleaning
+- ✔ Data Preprocessing
+- ✔ Exploratory Data Analysis (EDA)
+- ✔ Statistical Analysis
+- ✔ Data Visualization
+- ✔ Insight Generation
 
 The dataset was explored to identify trends, distributions, relationships, and business patterns using Python libraries and visualization techniques.
 
@@ -74,15 +74,15 @@ These preprocessing steps ensured better accuracy and reliability of analysis.
 The project includes detailed exploratory data analysis to understand data distributions and uncover hidden patterns.
 
 Analysis Performed:
-📈 Sales Trend Analysis
-👥 Customer Behavior Analysis
-📚 Product/Category Analysis
-🌍 Regional Performance Analysis
-📊 Data Distribution Analysis
-🔗 Correlation Analysis
-📉 Comparative Analysis
-🚨 Outlier Detection
-📊 Visualizations Used
+- 📈 Sales Trend Analysis
+- 👥 Customer Behavior Analysis
+- 📚 Product/Category Analysis
+- 🌍 Regional Performance Analysis
+- 📊 Data Distribution Analysis
+- 🔗 Correlation Analysis
+- 📉 Comparative Analysis
+- 🚨 Outlier Detection
+- 📊 Visualizations Used
 
 Different visualization techniques were used to represent business insights effectively.
 
@@ -126,12 +126,12 @@ This project helped strengthen the following skills:
 
 The repository contains the following files:
 
-📄 Retail Case Study.pdf → Original case study questions
-📓 Retail Casestudy.ipynb → Complete Python analysis notebook
-📊 Dataset file(s)
-🖼 Visualization images/screenshots
-📘 README.md → Project documentation
-💡 Project Outcome
+- 📄 Retail Case Study.pdf → Original case study questions
+- 📓 Retail Casestudy.ipynb → Complete Python analysis notebook
+- 📊 Dataset file(s)
+- 🖼 Visualization images/screenshots
+- 📘 README.md → Project documentation
+- 💡 Project Outcome
 
 This project demonstrates how Python can be used effectively for retail analytics and business intelligence.
 
