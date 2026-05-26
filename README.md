@@ -35,7 +35,9 @@ The project showcases practical implementation of Python for real-world retail a
 The project was completed using the following tools and technologies:
 
 🐍 Python
+
 🐼 Pandas
+
 🔢 NumPy
 
  📊 Matplotlib
