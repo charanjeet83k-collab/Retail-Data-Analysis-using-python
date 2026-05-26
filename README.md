@@ -121,6 +121,9 @@ These visualizations helped in identifying trends, patterns, and variations with
 ## City Analysis
 ![Histogram](City_code%20Histogram.png)
 
+## Gender wise Analysis
+![Column](Gender%20wise%20column%20chart.png)
+
 ## 📈 Key Insights Generated
 
 Some important insights derived from the analysis include:
