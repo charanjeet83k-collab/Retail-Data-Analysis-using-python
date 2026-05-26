@@ -118,6 +118,9 @@ These visualizations helped in identifying trends, patterns, and variations with
 ## Customer Analysis
 ![Histogram](Cust_id%20Histogram.png)
 
+## City Analysis
+![Histogram](
+
 ## 📈 Key Insights Generated
 
 Some important insights derived from the analysis include:
