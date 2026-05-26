@@ -116,7 +116,7 @@ These visualizations helped in identifying trends, patterns, and variations with
 ## 📈 Sample Visualizations
 
 ## Customer Analysis
-![Histogram](images/Cust_id Histogram.png)
+![Histogram](Cust_id%20Histogram.png)
 
 ## 📈 Key Insights Generated
 
