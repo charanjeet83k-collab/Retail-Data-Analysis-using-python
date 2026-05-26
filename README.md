@@ -110,13 +110,13 @@ Different visualization techniques were used to represent business insights effe
 Charts & Graphs Used:
 * Bar Charts
 * Histograms
-* Scatter Plots
-* Pie Charts
-* Line Charts
-* Box Plots
-* Count Plots
 
-These visualizations helped in identifying trends, patterns, relationships, and variations within the retail dataset.
+These visualizations helped in identifying trends, patterns, and variations within the retail dataset.
+
+## 📈 Sample Visualizations
+
+## Customer Analysis
+![Customer Analysis](
 
 ## 📈 Key Insights Generated
 
