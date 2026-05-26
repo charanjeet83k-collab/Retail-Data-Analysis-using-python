@@ -119,7 +119,7 @@ These visualizations helped in identifying trends, patterns, and variations with
 ![Histogram](Cust_id%20Histogram.png)
 
 ## City Analysis
-![Histogram](
+![Histogram](City_code%20Histogram.png)
 
 ## 📈 Key Insights Generated
 
